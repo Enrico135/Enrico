@@ -1,0 +1,26 @@
+maiN{
+   background-color:rgb(255, 255, 255)
+
+}
+   
+   body{
+      background-color:rgb(255, 255, 255)
+
+   }
+
+   p{
+      color: rgb(0, 0, 0);
+   }
+
+#banner{
+   width: 50%;
+
+}
+footer img{
+width: 50;
+}
+.copyright{
+   color: rgb(0, 136, 255);
+   font-size: 13px;
+   margin: 20px 0;
+}
