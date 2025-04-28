@@ -13,14 +13,19 @@ maiN{
    }
 
 #banner{
-   width: 50%;
+   width: 30%;
+   justify-content: auto;
+   display: auto;
+   justify-content: center;
+   align-items: flex;
+   margin: 0;
 
 }
 footer img{
 width: 50;
 }
 .copyright{
-   color: rgb(0, 136, 255);
+   color: rgb(0, 0, 0);
    font-size: 13px;
    margin: 20px 0;
 }
