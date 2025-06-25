@@ -47,31 +47,38 @@ text-decoration: underline;
  }
 .produtos li:hover {
 border-color: rgb(30, 0, 255);
+
 }
 .produtos li:active {
  border-color: red;
+
 }
 .produtos li:hover h2 {
  font-size: 34px;
  color: purple;
+ 
 }
 
  .produtos h2{
    font-size: 30px;
    font-weight: bold;
+  
  }
  .produto-descricao{
    font-size: 18px;
+   
  }
  .produto-preco{
    font-size: 22px;
    font-weight: bold;
    margin-top: 10px;
+  
  }
  footer{
   text-align: center;
   background-color: #1eff00;
   padding: 40px;
+
  }
  .copyright{
   color: #000000;
